@@ -1,1 +1,8 @@
-
+streamlit
+langgraph
+pydantic
+numpy
+# يمكن إضافة مكتبات أخرى إذا كنت تستخدمها في حساباتك
+# مثل:
+# pandas
+# requests
